@@ -18,7 +18,8 @@ The project produces visualizations such as:
 <ul>
   <li><b>Elbow Method Plot: </b>To determine the optimal number of clusters.</li>
   <li><b>Customer Segments: </b>Scatter plots showing the segmented customer groups along with the cluster centroids.</li></ul>
-Include a few example plots or screenshots to give viewers a sense of what the output looks like.
+![Income and Spend Distribution](https://github.com/Shardul003/Customer-Segmentation-using-K-Means-Clustering/blob/main/download.png)
+
 
 <h3>Conclusion</h3>
 This project successfully segments customers into distinct groups based on their income and spending patterns using the K-Means clustering algorithm. These segments can be leveraged to devise targeted marketing strategies.

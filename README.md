@@ -19,6 +19,10 @@ The project produces visualizations such as:
   <li><b>Elbow Method Plot: </b>To determine the optimal number of clusters.</li>
   <li><b>Customer Segments: </b>Scatter plots showing the segmented customer groups along with the cluster centroids.</li></ul>
 ![Income and Spend Distribution](https://github.com/Shardul003/Customer-Segmentation-using-K-Means-Clustering/blob/main/download.png)
+![Comparison of Income and Spending Distribution](https://github.com/Shardul003/Customer-Segmentation-using-K-Means-Clustering/blob/main/download%20(1).png)
+![Elbow Method for Determining Optimal Number of Clusters](https://github.com/Shardul003/Customer-Segmentation-using-K-Means-Clustering/blob/main/download%20(2).png)
+![Customer Segmentation Based on Annual Income and Spending](https://github.com/Shardul003/Customer-Segmentation-using-K-Means-Clustering/blob/main/download%20(3).png)
+![Hierarchical Clustering Dendrogram of Customer Segmentation](https://github.com/Shardul003/Customer-Segmentation-using-K-Means-Clustering/blob/main/download%20(4).png)
 
 
 <h3>Conclusion</h3>
